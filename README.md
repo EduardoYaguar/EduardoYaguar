@@ -10,7 +10,6 @@ I'm a computer science engineer student committed to continous learning. In mid-
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/EduardoYaguar?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
-<div style="clear: both;"></div>
 ---
 
 ### 🛠️ Languages and Tools 🛠️
@@ -23,9 +22,9 @@ I'm a computer science engineer student committed to continous learning. In mid-
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 
-<div style="clear: both;"></div>
 
-#
+---
+
 
 ### ⚙️Currently Learning⚙️
 <img align="left" alt="Tailswind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
@@ -34,7 +33,7 @@ I'm a computer science engineer student committed to continous learning. In mid-
 
 <div style="clear: both;"></div>
 
-#
+---
 
 ### 📊 Stats
 
