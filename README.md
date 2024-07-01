@@ -1,5 +1,5 @@
 # Hello I'm Eduardo 👋
-##Digital Wizzard 🧙  (Developer/Student)##
+
 
 I'm a computer science engineer student committed to continous learning. In mid-2024, I decided to start sharing my coding projects on GitHub. Hop on this journey with me! 😬
 
