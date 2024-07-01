@@ -23,7 +23,7 @@ I'm a computer science engineer student committed to continous learning. In mid-
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 <br />
 
----
+#
 
 
 ### ⚙️Currently Learning⚙️
@@ -31,9 +31,9 @@ I'm a computer science engineer student committed to continous learning. In mid-
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/>
 
-<div style="clear: both;"></div>
+<br />
 
----
+#
 
 ### 📊 Stats
 
