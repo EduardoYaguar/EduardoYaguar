@@ -37,6 +37,3 @@ I'm a computer science engineer student committed to continous learning. In mid-
 
 #
 
-### 📊 Stats
-
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoyaguar&show_icons=true&theme=gruvbox)
